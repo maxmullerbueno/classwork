@@ -11,5 +11,10 @@ h1 {
     border: solid 3px yellow;
 }
 h2 {
+    font-size: 30pt;
+    color: purple;
     font-family: Arial, Helvetica, sans-serif;
+}
+.yt {
+    text-decoration: underline;
 }
